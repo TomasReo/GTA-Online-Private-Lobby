@@ -4,6 +4,14 @@ Simple script to "steal" an online lobby for yourself
 This script uses PsSuspend, part of SysInternals by Microsoft. 
 https://learn.microsoft.com/en-us/sysinternals/downloads/pssuspend
 
+.: How to use? :.
+1.) Download as archive
+2.) Extract files into a folder somewhere
+3.) Launch GTA Online, join a session
+4.) Run Pause.bat  -> game will stop responding for a few seconds
+5.) Once it unfreezes, you should see that everyone left.
+6.) Profit! 
+
 .: What it does? :.
 Temporarily suspends the GTA V process, causing server connection timeout long enough to disconnect you from your current lobby, yet short enough to not get you kicked from online (disconnnected, not banned). 
 
